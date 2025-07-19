@@ -5,9 +5,14 @@
 🎓【一句话介绍学习经历】
 本科就读于智能科学与技术专业，毕业后想尝试产品经理这个行业。
 📸【我的靓照/沙雕照】
-https://github.com/tangdaqiang/tangdaqiang.github.io/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250719220052.jpg
-
-
+https://github.com/tangdaqiang/tangdaqiang.github.io/blob/main/01.jpg
+https://github.com/tangdaqiang/tangdaqiang.github.io/blob/main/02.jpg
+https://github.com/tangdaqiang/tangdaqiang.github.io/blob/main/03.jpg
+https://github.com/tangdaqiang/tangdaqiang.github.io/blob/main/04.jpg
+https://github.com/tangdaqiang/tangdaqiang.github.io/blob/main/05.jpg
+https://github.com/tangdaqiang/tangdaqiang.github.io/blob/main/06.jpg
+https://github.com/tangdaqiang/tangdaqiang.github.io/blob/main/07.jpg
+https://github.com/tangdaqiang/tangdaqiang.github.io/blob/main/08.jpg
 
 🍜【我的美食最爱】
 人是铁，饭是钢，我最爱的是饺子！蒸的鲜、煮的润、煎的香，韭菜鸡蛋馅是本命，一口一个根本停不下来～🥟
